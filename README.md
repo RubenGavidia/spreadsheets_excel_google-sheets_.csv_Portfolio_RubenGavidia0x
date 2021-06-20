@@ -2,6 +2,7 @@
 
 ![excelCHARTS](https://github.com/RubenGavidia/spreadsheets_excel_google-sheets_.csv_Portfolio_RubenGavidia0x/blob/main/Dan_Bricklin/dashboard%20charts.png?raw=true)
 
+![excelCHARTS](https://github.com/RubenGavidia/spreadsheets_excel_google-sheets_.csv_Portfolio_RubenGavidia0x/blob/main/Dan_Bricklin/Gannt%20Chart%20Schedule%20Engineering%20Roadway%20Building%20Springfield%20Avenue.png)
 
 # Google-Sheets_Portfolio_RubenGavidia0x
 
