@@ -1,5 +1,7 @@
 # spreadsheets_excel_google-sheets_.csv_Portfolio_RubenGavidia0x
 
+![excelCHARTS](https://github.com/RubenGavidia/spreadsheets_excel_google-sheets_.csv_Portfolio_RubenGavidia0x/blob/main/Dan_Bricklin/dashboard%20charts.png?raw=true)
+
 
 # Google-Sheets_Portfolio_RubenGavidia0x
 
