@@ -1,5 +1,10 @@
 # spreadsheets_excel_google-sheets_.csv_Portfolio_RubenGavidia0x
 
+Linkedin badge:
+
+![image](https://user-images.githubusercontent.com/35381213/140603598-3da418f8-dce4-440a-91ec-a83a895a1447.png)
+
+
 ![excelCHARTS](https://github.com/RubenGavidia/spreadsheets_excel_google-sheets_.csv_Portfolio_RubenGavidia0x/blob/main/Dan_Bricklin/dashboard%20charts.png?raw=true)
 
 ![excelCHARTS](https://github.com/RubenGavidia/spreadsheets_excel_google-sheets_.csv_Portfolio_RubenGavidia0x/blob/main/Dan_Bricklin/Gannt%20Chart%20Schedule%20Engineering%20Roadway%20Building%20Springfield%20Avenue.png?raw=true)
